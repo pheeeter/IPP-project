@@ -2,7 +2,7 @@
 ## IPPcode20 Parser, Interpreter & Tester
 ---
 
-Parser, interpreter and tester scripts for the imperative language
+Parser, interpreter and test scripts for the imperative language
 
 **Author:** Peter Koprda <xkoprd00@stud.fit.vutbr.cz>
 
